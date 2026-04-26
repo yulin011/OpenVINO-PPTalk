@@ -4,6 +4,9 @@ lab1-multimodal-vlm/
 lab2-speech-recognition/
 lab3-text-to-speech/
 lab4-image-generation/
+utils/__pycache__/
+**/__pycache__/
+*.pyc
 
 lab5-ppt-narration/note.md
 lab5-ppt-narration/.ipynb_checkpoints/
@@ -11,5 +14,6 @@ lab5-ppt-narration/Qwen3-TTS-CustomVoice-0.6B-fp16-ov/
 lab5-ppt-narration/Qwen3-VL-4B-Instruct-int4-ov/
 lab5-ppt-narration/assets/**
 lab5-ppt-narration/outputs/**
+lab5-ppt-narration/__pycache__/
 
 __pycache__/
